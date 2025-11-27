@@ -20,6 +20,9 @@ This work is licensed under a
 [Godot 4 Import 3D Models Tutorial](https://www.youtube.com/watch?v=16Uou6LWQ5Y)
 - Blender .obj can just directly drag & drop into the scene, for .fbx you need you need to specify the file path, and how to import animation from mixamo
 
+[Learn GDScript From Zero](https://gdquest.github.io/learn-gdscript/)
+- Really good if you've never programmed before. Main takeaway was introduction to Vector2 and other Godot data types.
+
 ## Godot Beginner Tutorials
 
 [the godot game development tutorials you need to watch](https://www.youtube.com/watch?v=2ifq1k-B0oY)
